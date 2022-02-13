@@ -70,7 +70,7 @@ knitr::include_graphics("https://pbs.twimg.com/media/EPlDKUQUcAEq5pw?format=jpg&
   
   - Wednesday April 6: Getting Started with Spatial Data with **Josemari Feliciano** (USDA Innovation Center)
   
-  - Tuesday April 19: Introduction to ARIMA Models with R with **Laura Rose**
+  - Tuesday April 19: Introduction to ARIMA Models with R with **Laura Rose** (Mallinckrodt Pharmaceuticals)
     
 * RSVP for future talks on meetup.com
 
